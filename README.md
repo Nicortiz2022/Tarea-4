@@ -145,11 +145,18 @@ EJERCICIOS:
 36.
 ![image](https://user-images.githubusercontent.com/105940407/176730618-f467ecc2-0500-48b1-9c77-b3c271f4d6df.png)
 
+VIDEO 
+
+https://youtu.be/4mGVJXE2o9kJT
+
 CONCLUSIONES
 
 -Las formulas que se utilizan para el analisis y la resolucion de estos ejercicios se hacen utilizando las formulas de las leyes de Ohms y de Kirchhoff
 -Para calcular y analizar estos ejercicios se debe tener cierta soltura al momento de analizar resitencias equivalente, ya que existen muchas que estan conectadas en paralelo 
 
+BIBLIOGRAFIA 
+
+LOYD, THOMAS L.(2007). Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
 
 
 
