@@ -3,6 +3,7 @@
 OBJETIVOS: 
 
 -Tener los conocimientos para identificar y analizar los distintos tipos de circuitos descritos en estos capitulos
+
 -Comprender en que situaciones se puede y/o deben utilizar las formulas que aparecen en estos capitulos, dependiendo del ejercicio y de los datos que este de.
 
 MARCO TEORICO:
